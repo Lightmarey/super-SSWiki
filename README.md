@@ -79,4 +79,5 @@ V2ray篇
 ### 设置完毕，请在浏览器打开：账户:密码@VPS的ip:端口号
 ### 进行一些简短的设置，然后就可以连接了
 > 注意：由于IP探测已经失灵，可能需要手动更新IP。（对于快照来讲）
-
+>> ## 需要海外服务器么?
+<a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_628x628.png" width="628" height="628"></a>
